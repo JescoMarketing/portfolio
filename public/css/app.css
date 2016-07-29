@@ -1,0 +1,69 @@
+body {
+        background-color: #000;
+        background-image: url('../images/fondo5.jpg');
+        background-size: cover;
+    }
+    .menu {
+        margin-top: 50px;
+        margin-left: 1300px;
+        position: fixed;
+    }
+    .menu-xs {
+        
+    }
+    .menu i {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+    .cover {
+        background-color: rgba(0,0,0,0.5);
+        width:100%;
+        height:673px;
+    }
+    .img-cover {
+        width: 250px;
+        height: 250px;
+        border: 10px #fff solid;
+        border-radius: 50%;
+        margin-top: 150px;
+    }
+    .social img {
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+        opacity: .7;
+    }
+    .social img:hover {
+        opacity: 1;
+    }
+    ul li {
+        padding: 5px 0;
+    }
+    ul li a {
+        font-size: 20px;
+        font-family: Sans;
+        color: #fff;
+    }
+    ul li a:hover {
+        text-decoration: none;
+        color: #fff;
+    }
+    h1 {
+        font-family: Sans;
+        color: #fff;
+        font-size: 30px;
+    }
+    .active {
+        color: #fff;
+    }
+    .copy {
+        color: #fff;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        margin-top: 50px;
+        opacity: .7;
+    }
+    .copy:hover {
+        opacity: 1;
+    }
