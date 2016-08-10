@@ -1,10 +1,28 @@
 body {
         background-color: #000;
-        background-image: url('../images/fondo5.jpg');
+        background-image: url('../images/fondo.jpg');
         background-size: cover;
     }
+    .portfolio-page {
+        margin-bottom: 2em;
+    }
+    .sub-cover {
+        background-color: rgba(0,0,0,0.5);
+        border-bottom: 3px solid #fff;
+        box-shadow: 0px 0px 15px #c2c2c2;
+    }
+    .sub-cover p {
+        font-size: 15px;
+        font-weight: bold;
+        color: #e2e2e2;
+        margin-top: -5px;
+    }
+    .panel {
+        margin-top: 10px;
+        box-shadow: 2px 2px 2px gray;
+    }
     .menu {
-        margin-top: 50px;
+        margin-top: 30px;
         position: fixed;
     }
     .menu-xs a{
@@ -49,7 +67,6 @@ body {
     }
     ul li a:hover {
         text-decoration: none;
-        color: #fff;
     }
     h1 {
         font-family: Sans;
@@ -62,7 +79,7 @@ body {
     .copy {
         color: #fff;
         font-family: serif;
-        position: fixed;
+        position: bottom;
         text-align: center;
         bottom: 0;
         margin-top: 50px;
@@ -70,4 +87,11 @@ body {
     }
     .copy:hover {
         opacity: 1;
+    }
+    .text-gray {
+        color: #c3c3c3;
+    }
+    .text-important {
+        font-size: 60px;
+        text-shadow: 3px 2px gray;
     }
