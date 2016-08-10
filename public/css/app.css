@@ -15,7 +15,7 @@ body {
         font-size: 15px;
         font-weight: bold;
         color: #e2e2e2;
-        margin-top: -5px;
+        margin-top: 20px;
     }
     .panel {
         margin-top: 10px;
@@ -26,6 +26,7 @@ body {
         position: fixed;
     }
     .menu-xs a{
+        font-family: 'Titillium Web', Sans;
         font-size: 18px;
         opacity: .7;
     }
@@ -46,7 +47,7 @@ body {
         height: 250px;
         border: 10px #fff solid;
         border-radius: 50%;
-        margin-top: 150px;
+        margin-top: 120px;
     }
     .social img {
         width: 50px;
@@ -61,17 +62,38 @@ body {
         padding: 5px 0;
     }
     ul li a {
+        font-family: 'Titillium Web', Sans;
         font-size: 20px;
-        font-family: Sans;
         color: #fff;
     }
     ul li a:hover {
         text-decoration: none;
     }
+    .title {
+        font-family: 'Ubuntu', Sans;
+    }
+    .sub-title {
+        font-family: 'Slabo 27px', serif;
+    }
     h1 {
-        font-family: Sans;
+        font-family: 'Ubuntu', Sans;
         color: #fff;
         font-size: 30px;
+    }
+    h2 {
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 26px;
+        color: #13DAFA;
+    }
+    h3 {
+        font-family: 'Slabo 27px', serif;   
+    }
+    h4 {
+        font-family: 'Titillium Web', Helvetica, Sans;
+        color: gray;
+    }
+    p {
+        font-family: 'PT Sans', sans-serif;
     }
     .active {
         color: #fff;
@@ -92,6 +114,11 @@ body {
         color: #c3c3c3;
     }
     .text-important {
+        font-family: 'Ubuntu', Sans;
+        color: #13DAFA;
         font-size: 60px;
-        text-shadow: 3px 2px gray;
+        text-shadow: 3px 2px #555;
+    }
+    .modal img {
+        width: 20px;
     }

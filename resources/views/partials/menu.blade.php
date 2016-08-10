@@ -19,13 +19,13 @@
         <div class="modal-content">
             <div class="modal-header bg-primary text-center">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h4 class="modal-title">Hire me!</h4>
+                <h3 class="modal-title">Hire me!</h3>
             </div>
-            <div class="modal-body bg-info">
-                <label><i class="glyphicon glyphicon-phone"></i> 8121500952</label><br>
-                <label><i class="glyphicon glyphicon-phone"></i> 32*10*59660</label><br>
-                <label><i class="glyphicon- glyphicon-envelope"></i> jes.cas8612@gmail.com</label><br>
-                <label><i class="glyphicon- glyphicon-tower"></i> Monterrey, N.L, México</label>
+            <div class="modal-body bg-info text-center">
+                <p><img src="images/tel.png" alt=""> Tel: 8121500952</p>
+                <p><i class="glyphicon glyphicon-phone"></i> ID Nextel: 32*10*59660</p>
+                <p><i class="glyphicon- glyphicon-envelope"></i> Email: jes.cas8612@gmail.com</p>
+                <p><img src="images/map.png" alt=""> Monterrey, N.L, México</p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>

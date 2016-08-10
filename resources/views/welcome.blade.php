@@ -22,9 +22,9 @@
                 <img data-toggle="tooltip" data-placement="right" title="I am available, contact me!" alt="" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgdAAAAJDBmMGYzY2ExLWU4ZDgtNDNmNC1iYzAyLWM3ZmIxYTMwYTY3Mg.jpg" class="img-cover">
             </div>
             <div class="col-md-6 col-md-offset-3 text-center social">
-                <h1>Jesús Castañeda<br><small>< Full Stack Web Developer /></small></h1>
+                <h1 class="title">Jesús Castañeda<br><small class="text-success">< Full Stack Web Developer /></small></h1>
                 <br>
-                <h3 class="hidden-xs text-success">Follow me on Social Media</h3>
+                <h2 class="hidden-xs">Follow me on Social Media</h2>
                 <a href="http://www.github.com/jesuscastaneda86" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Github" src="images/github.png" alt="G"></a>
                 <a href="https://mx.linkedin.com/in/jesús-manuel-castañeda-olmos-06a27ab7" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Linkedin" src="images/linkedin.png" alt="linkedin"></a>
                 <a href="http://www.codepen.io/jesuscastaneda86" class="hidden-xs" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Codepen" src="images/codepen.png" alt="codepen"></a>

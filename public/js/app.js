@@ -10,7 +10,7 @@ $(document).ready(function(){
 
     $(".menu li").mouseenter(function(){
         $(this).css({"margin-left": "-90px", "transition": "0.5s"});
-        $(this).children("a").css({"color": "green"});
+        $(this).children("a").css({"color": "#13DAFA"});
     });
     $(".menu li").mouseleave(function(){
         $(this).css({"margin-left": "0px", "transition": "0.5s"});
