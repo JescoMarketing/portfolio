@@ -4,6 +4,19 @@
 <div class="">
     <div class="portfolio-page">
         <div class="sub-cover">
+            <div class="col-md-4 col-md-offset-4 hidden-lg menu-xs text-center">
+                <ul class="list-unstyled list-inline">
+                    <li id="home" >
+                        <a href="/"><i class="glyphicon glyphicon-home"></i> Home</a>
+                    </li>
+                    <li id="portfolio" >
+                        <a href="/portfolio"><i class="glyphicon glyphicon-briefcase"></i> Portfolio</a>
+                    </li>
+                    <li id="contact" >
+                        <a data-toggle="modal" href='#modal-id'><i class="glyphicon glyphicon-phone"></i> Contact</a>
+                    </li>
+                </ul>
+            </div>
             <div class="container">
                 <br>
                 <h1 class="page-header text-important">My Projects</h1>
