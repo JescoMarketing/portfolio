@@ -38,7 +38,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/udp.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.universidaddeparral.com.mx</a></p>
+                        <p>Web Site: <a href="#">www.universidaddeparral.com.mx</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -60,7 +60,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/jesco.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.jescomarketing.com</a></p>
+                        <p>Web Site: <a href="#">www.jescomarketing.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -83,7 +83,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/emporio.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.emporioescort.com</a></p>
+                        <p>Web Site: <a href="#">www.emporioescort.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -106,7 +106,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/distribuidoraluz.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.distribuidoraluz.com</a></p>
+                        <p>Web Site: <a href="#">www.distribuidoraluz.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -127,7 +127,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/regioclimas.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.regioclimas.com</a></p>
+                        <p>Web Site: <a href="#">www.regioclimas.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -148,7 +148,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/sigma.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.sigmacapacita.com</a></p>
+                        <p>Web Site: <a href="#">www.sigmacapacita.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -171,7 +171,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/artemex.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.artemex.com</a></p>
+                        <p>Web Site: <a href="#">www.artemex.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
@@ -192,7 +192,7 @@
                 <div class="panel-body bg-info">
                     <div class="col-md-10 col-md-offset-1">
                         <img src="images/semansa.png" width="100%" class="img-responsive img-rounded" alt=""><br>
-                        <p>Web Site: <a href="#" target="_blank">www.semansa.com</a></p>
+                        <p>Web Site: <a href="#">www.semansa.com</a></p>
                         <br><br>
                         <span>
                             <p class="label label-success">Html</p>
