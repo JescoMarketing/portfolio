@@ -7,11 +7,11 @@
         <div class="cover">
             <div class="col-md-4 col-md-offset-4 hidden-lg menu-xs text-center">
                 <ul class="list-unstyled list-inline">
-                    <li id="home" >
-                        <a href="/"><i class="glyphicon glyphicon-home"></i> Home</a>
-                    </li>
                     <li id="portfolio" >
                         <a href="/portfolio"><i class="glyphicon glyphicon-briefcase"></i> Portfolio</a>
+                    </li>
+                    <li id="home" >
+                        <a href="/skills"><i class="glyphicon glyphicon-list"></i> Skills</a>
                     </li>
                     <li id="contact" >
                         <a data-toggle="modal" href='#modal-id'><i class="glyphicon glyphicon-phone"></i> Contact</a>
@@ -22,7 +22,7 @@
                 <img data-toggle="tooltip" data-placement="right" title="I am available, contact me!" alt="" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgdAAAAJDBmMGYzY2ExLWU4ZDgtNDNmNC1iYzAyLWM3ZmIxYTMwYTY3Mg.jpg" class="img-cover">
             </div>
             <div class="col-md-6 col-md-offset-3 text-center social">
-                <h1 class="title">Jesús Castañeda<br><small class="text-success">< Full Stack Web Developer /></small></h1>
+                <h1 class="title">Jesús Castañeda<br><small class="text-white">< Full Stack Web Developer /></small></h1>
                 <br>
                 <h2 class="hidden-xs">Follow me on Social Media</h2>
                 <a href="http://www.github.com/jesuscastaneda86" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Github" src="images/github.png" alt="G"></a>
@@ -34,9 +34,7 @@
                 <a href="https://twitter.com/jesus_castaneda" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Twitter" src="images/twitter.png" alt="twitter"></a>
                 <a href="https://drive.google.com/open?id=0B_bNZgR0HXPTOVNRNU1yR1VkSE0" class="hidden-xs" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Curriculum Vitae" src="images/pdf.png" alt="curriculum"></a>
             </div>
-            <div class="col-md-12 copy hidden-xs">
-                <p>@Copyright 2016 Derechos Reservados | Created by: Jesús Castañeda</p>
-            </div>
+            @include('partials.copy')
         </div>
     </div>
 </div>

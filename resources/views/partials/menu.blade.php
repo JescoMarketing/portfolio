@@ -7,7 +7,7 @@
             <a href="/portfolio"><i class="glyphicon glyphicon-briefcase"> </i> Portfolio</a>
         </li>
         <li id="skills">
-            <a class="disabled" href="#"><i class="glyphicon glyphicon-list"> </i> Skills</a>
+            <a class="disabled" href="/skills"><i class="glyphicon glyphicon-list"> </i> Skills</a>
         </li>
         <li id="contact" >
             <a data-toggle="modal" href='#modal-id'><i class="glyphicon glyphicon-phone"> </i> Contact</a>
