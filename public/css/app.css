@@ -106,11 +106,9 @@ body {
         position: bottom;
         text-align: center;
         bottom: 0;
-        margin-top: 50px;
-        opacity: .7;
+        margin-top: 30px;
     }
     .copy:hover {
-        opacity: 1;
     }
     .text-gray {
         color: #c3c3c3;
@@ -144,4 +142,7 @@ body {
     .stacks img {
         width: 150px;
         margin: 4em 1em;
+    }
+    .pad-top {
+        padding: 10px 0;
     }

@@ -3,10 +3,19 @@ $(function () {
 });
 
 $(document).ready(function(){
-	var width = screen.width -65;
-	width = width;
+
+	var width = screen.width;
+
+    if (width == 1920) {
+        width = width - 50;
+    } else if (width == 1280) {
+        width = width - 50;
+    } else {
+        width = width - 65;
+    }
 
 	$(".cover").css("height", screen.height);
+
 	$(".menu").css("margin-left", width + "px");
 
     $(".menu li").mouseenter(function(){

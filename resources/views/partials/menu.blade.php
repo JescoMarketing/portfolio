@@ -27,9 +27,6 @@
                 <p><i class="glyphicon- glyphicon-envelope"></i> Email: jes.cas8612@gmail.com</p>
                 <p><img src="images/map.png" alt=""> Monterrey, N.L, México</p>
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-            </div>
         </div>
     </div>
 </div>

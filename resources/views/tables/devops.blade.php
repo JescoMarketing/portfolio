@@ -4,8 +4,8 @@
             <thead>
                 <tr>
                     <th class="text-center">Tech</th>
-                    <th class="text-center">Beginner</th>
-                    <th class="text-center">Familiar</th>
+                    <th class="text-center hidden-xs">Beginner</th>
+                    <th class="text-center hidden-xs">Familiar</th>
                     <th class="text-center">Proficient</th>
                     <th class="text-center">Expert</th>
                     <th class="text-center">Master</th>
@@ -18,11 +18,11 @@
                         <img src="images/linux.png" width="60px" alt="">
                         <p>Linux</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -42,11 +42,11 @@
                         <img src="images/heroku.png" width="60px" alt="">
                         <p>Heroku</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -66,11 +66,11 @@
                         <img src="images/nginx.png" width="60px" alt="">
                         <p>Nginx</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -87,11 +87,11 @@
                         <img src="images/apache.png" width="60px" alt="">
                         <p>Apache</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -111,11 +111,11 @@
                         <img src="images/backup.png" width="60px" alt="">
                         <p>Databases Backups</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -132,11 +132,11 @@
                         <img src="images/ocean.png" width="60px" alt="">
                         <p>Digital Ocean</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>

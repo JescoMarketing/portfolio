@@ -1,8 +1,5 @@
 <div class="row">
-    <div class="col-md-7">
-        <p>#WebDeveloper | #SoftwareDeveloper | #WebSite | #SocialMedia | #DigitalMarketing</p>
-    </div>
-    <div class="col-md-5 social">
+    <div class="col-md-5 social pull-right">
         <a href="http://www.github.com/jesuscastaneda86" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Github" src="images/github.png" alt="G"></a>
         <a href="https://mx.linkedin.com/in/jesús-manuel-castañeda-olmos-06a27ab7" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Linkedin" src="images/linkedin.png" alt="linkedin"></a>
         <a href="http://www.codepen.io/jesuscastaneda86" class="hidden-xs" target="_blank"><img data-toggle="tooltip" data-placement="bottom" title="Codepen" src="images/codepen.png" alt="codepen"></a>

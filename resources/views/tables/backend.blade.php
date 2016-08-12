@@ -4,8 +4,8 @@
             <thead>
                 <tr>
                     <th class="text-center">Tech</th>
-                    <th class="text-center">Beginner</th>
-                    <th class="text-center">Familiar</th>
+                    <th class="text-center hidden-xs">Beginner</th>
+                    <th class="text-center hidden-xs">Familiar</th>
                     <th class="text-center">Proficient</th>
                     <th class="text-center">Expert</th>
                     <th class="text-center">Master</th>
@@ -18,11 +18,11 @@
                         <img src="images/php.png" width="60px" alt="">
                         <p>PHP</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -39,11 +39,11 @@
                         <img src="images/laravel.png" width="60px" alt="">
                         <p>Laravel</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -63,11 +63,11 @@
                         <img src="images/nodejs.png" width="60px" alt="">
                         <p>NodeJs</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -84,11 +84,11 @@
                         <img src="images/express.png" width="60px" alt="">
                         <p>Express</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -105,11 +105,11 @@
                         <img src="images/python.png" width="60px" alt="">
                         <p>Python</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>

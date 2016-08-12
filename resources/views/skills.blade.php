@@ -28,7 +28,7 @@
     </div>
 </div>
 <div class="col-md-12 opaco">
-    <div class="container stacks text-center">
+    <div class="container stacks text-center hidden-xs">
         <h1>Main Stacks</h1>
         <img data-toggle="tooltip" data-placement="top" title="Frontend Stack" src="images/stack1.png" alt="">
         <img data-toggle="tooltip" data-placement="top" title="Lemp Stack" src="images/lemp.png" alt="">
@@ -66,4 +66,5 @@
         </div>
     </div>
 </div>
+@include('partials.social-xs')
 @endsection

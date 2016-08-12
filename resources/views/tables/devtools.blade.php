@@ -4,8 +4,8 @@
             <thead>
                 <tr>
                     <th class="text-center">Tech</th>
-                    <th class="text-center">Beginner</th>
-                    <th class="text-center">Familiar</th>
+                    <th class="text-center hidden-xs">Beginner</th>
+                    <th class="text-center hidden-xs">Familiar</th>
                     <th class="text-center">Proficient</th>
                     <th class="text-center">Expert</th>
                     <th class="text-center">Master</th>
@@ -18,11 +18,11 @@
                         <img src="images/git.png" width="60px" alt="">
                         <p>Git</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -42,11 +42,11 @@
                         <img src="images/github.png" width="60px" alt="">
                         <p>GitHub</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -66,11 +66,11 @@
                         <img src="images/npm.png" width="60px" alt="">
                         <p>NPM</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -90,11 +90,11 @@
                         <img src="images/gulp.png" width="60px" alt="">
                         <p>Gulp</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -111,11 +111,11 @@
                         <img src="images/bower.png" width="60px" alt="">
                         <p>Bower</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
@@ -135,11 +135,11 @@
                         <img src="images/grunt.png" width="60px" alt="">
                         <p>Grunt</p>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
-                    <td>
+                    <td class="hidden-xs">
                         <br><br>
                         <i class="glyphicon glyphicon-ok"></i>
                     </td>
