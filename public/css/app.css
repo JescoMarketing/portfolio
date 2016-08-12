@@ -21,6 +21,7 @@ body {
     .menu {
         margin-top: 30px;
         position: fixed;
+        z-index: 100;
     }
     .menu-xs a{
         font-family: 'Titillium Web', Sans;
@@ -137,11 +138,10 @@ body {
     .stacks {
         padding-top: 2.5em;
     }
+    .stacks h1 {
+        font-size: 3em;
+    }
     .stacks img {
         width: 150px;
         margin: 4em 1em;
-    }
-     {
-        background-color: blue;
-        color:white;
     }
