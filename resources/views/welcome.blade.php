@@ -19,7 +19,7 @@
                 </ul>
             </div>
             <div class="col-md-4 col-md-offset-4 text-center">
-                <img data-toggle="tooltip" data-placement="right" title="I am available, contact me!" alt="" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgdAAAAJDBmMGYzY2ExLWU4ZDgtNDNmNC1iYzAyLWM3ZmIxYTMwYTY3Mg.jpg" class="img-cover">
+                <img data-toggle="tooltip" data-placement="right" title="I am available, contact me!" alt="" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdSAAAAJGJmNTY2Nzc2LTBlNWYtNDMwZC1iZjhlLTEzZjdjMzRkNDg3Zg.jpg" class="img-cover">
             </div>
             <div class="col-md-6 col-md-offset-3 text-center social">
                 <h1 class="title">Jesús Castañeda<br><small class="text-white">< Full Stack Web Developer /></small></h1>
